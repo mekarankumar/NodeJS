@@ -68,6 +68,12 @@ body {
     }
 }
 
+/* Home page searchbar */
+.main_content_home {
+    position: absolute;
+    background-color: #000;
+}
+
 /* main header */
 .main-header-left {
     height: 50rem;
@@ -240,6 +246,10 @@ footer p {
     color: #fff;
     line-height: 5rem;
     font-size: 1.4rem;
+}
+
+.my_name {
+    color: var(--main-color);
 }
 
 /* responsive  */
